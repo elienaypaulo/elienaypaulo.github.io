@@ -8,7 +8,7 @@ type:
 - post
 - posts
 title: O Ceará já tem um novo técnico
-weight: 11
+weight: 10
 ---
 O Ceará já tem um novo treinador. Enderson Moreira assumirá o comando técnico do alvinegro.
 
