@@ -1,9 +1,14 @@
 ---
-title: Ceará 2 x 2 Paraná
-author: Paulo Elienay
-avatar: assets/Paulo.jpeg
-categories:
-  - Gandaia
+categories: [Gandaia]
+author:
+  name: "Paulo Elienay"
+2date: 2012-04-12
+linktitle: Considerações sobre o jogo de ontem
+type:
+- post
+- posts
+title: Considerações sobre o jogo de ontem
+weight: 10
 ---
 O futebol é realmente um esporte diferenciado. Em qualquer outro esporte a melhor equipe normalmente sai vencedora, mas no futebol, o esporte que é uma "caixinha de surpresas" nem sempre a melhor equipe vence. 
 
