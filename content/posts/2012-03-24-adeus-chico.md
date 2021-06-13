@@ -1,9 +1,14 @@
 ---
-title: Adeus, Chico
-author: Paulo Elienay
-avatar: assets/Paulo.jpeg
-categories:
-  - Reflexões
+categories: [Reflexões]
+author:
+  name: "Paulo Elienay"
+date: 2012-03-24
+linktitle: O humor brasileiro está mais pobre
+type:
+- post
+- posts
+title: O humor brasileiro está mais pobre
+weight: 10
 ---
 Francisco Anysio de Oliveira Paula Filho nasceu na cidade de Maranguape, no estado do Ceará, e faleceu na cidade do Rio de Janeiro. Era torcedor do Ferroviário, Vasco e Palmeiras, no entanto seu pai, Francisco Anysio de Oliveira Paula foi presidente do Ceará na década de 1930.
 
