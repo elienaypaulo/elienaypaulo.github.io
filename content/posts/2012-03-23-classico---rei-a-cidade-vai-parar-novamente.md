@@ -7,7 +7,7 @@ linktitle: Classico-Rei a cidade vai parar novamente
 type:
 - post
 - posts
-title: Clássico-Rei: a cidade vai parar novamente
+title: Clássico-Rei a cidade vai parar novamente
 weight: 10
 ---
 Ceará e Fortaleza farão no próximo domingo o jogo de número 544, de uma longa história recheada de grandes e inesquecíveis confrontos. Já se vão quase 94 anos desde o primeiro jogo que foi realizado no dia 17 de dezembro de 1918, em que o alvinegro saiu vencedor.
