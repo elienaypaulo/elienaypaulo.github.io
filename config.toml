@@ -149,16 +149,6 @@ weight = 3
 url = "categories/gandaia"
 
 [[languages.pt-br.menu.main]]
-name = "Posts"
-weight = 4
-url = "posts/"
-
-[[languages.pt-br.menu.main]]
-name = "Arquivo"
-weight = 5
-url = "arquivo/"
-
-[[languages.pt-br.menu.main]]
 name = "Sobre"
-weight = 6
+weight = 4
 url = "sobre/" 
