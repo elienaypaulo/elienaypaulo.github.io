@@ -24,3 +24,4 @@ Pela lógica o Ceará deveria ter atropelado o time paranista, e chegou perto, p
 - Copa do Brasil 2012 - 2ª fase - Jogo de ida
 - Estádio Presidente Vargas - Fortaleza/CE
 - Renda: R$ 145.124,00 - Público: 11.952 pagantes
+ 
