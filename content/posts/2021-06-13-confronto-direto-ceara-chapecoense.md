@@ -10,9 +10,9 @@ type:
 title: Confronto Direto - Ceará x Chapecoense
 weight: 10
 ---
-#Confronto direto - Ceará x Chapecoense
+Confronto direto - Ceará x Chapecoense
 
-|   2019-11-17    |   Esquerda      |  Centralizado   |Centralizado     |    Direita      |
+|       Data      |            Casa |      Placar     | Visitante       | Competição      |
 |      :---:      |            ---: |      :---:      | :---            | :---            |
 |   2019-11-17    |     Chapecoense |      1 x 0      | Ceará           | Brasileirão     |
-| git diff        | git diff        | git diff        | git diff        | git diff        |
+|   2019-08-10    |           Ceará |      4 x 1      | Chapecoense     | Brasileirão     |
