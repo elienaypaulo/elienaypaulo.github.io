@@ -1,9 +1,14 @@
 ---
-title: Enderson Moreira
-author: Paulo Elienay
-avatar: assets/Paulo.jpeg
-categories:
-  - Gandaia
+categories: [Gandaia]
+author:
+  name: "Paulo Elienay"
+date: 2019-04-21
+linktitle: Minhas impressões sobre o Enderson Moreira
+type:
+- post
+- posts
+title: Minhas impressões sobre o Enderson Moreira
+weight: 10
 ---
 O Ceará já tem um novo treinador. Enderson Moreira assumirá o comando técnico do alvinegro.
 
