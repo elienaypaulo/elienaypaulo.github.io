@@ -1,9 +1,14 @@
 ---
-title: O Bom Samaritano
-author: Paulo Elienay
-avatar: assets/Paulo.jpeg
-categories:
-  - Reflexões
+categories: [Reflexões]
+author:
+  name: "Paulo Elienay"
+date: 2013-09-19
+linktitle: O bom samaritano
+type:
+- post
+- posts
+title: O bom samaritano
+weight: 10
 ---
 A parábola do bom samaritano [Lc 10.25-37 NVI]
 
