@@ -2,7 +2,7 @@
 categories: [Gandaia]
 author:
   name: "Paulo Elienay"
-2date: 2012-04-12
+date: 2012-04-12
 linktitle: Considerações sobre o jogo de ontem
 type:
 - post
