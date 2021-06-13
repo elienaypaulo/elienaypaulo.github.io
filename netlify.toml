@@ -1,10 +1,7 @@
 [build]
-publish = "blog/public"
-command = "cd blog && hugo --themesDir=../.. --baseURL $URL"
+publish = "public"
+command = "hugo --minify"
 
-[build.environment]
+[build.production.environment]
 HUGO_VERSION = "0.77.0"
-HUGO_THEME = "hugo-coder"
-
-[context.deploy-preview]
-command = "cd blog &&  hugo --themesDir=../.. --buildFuture --buildDrafts --baseURL $DEPLOY_PRIME_URL"
+HUGO_ENV = "production"
