@@ -3,7 +3,7 @@ categories: ["Gandaia"]
 author:
   name: "Paulo Elienay"
 date: 2012-03-23
-linktitle: Classico-Rei: a cidade vai parar novamente
+linktitle: Classico-Rei a cidade vai parar novamente
 type:
 - post
 - posts
