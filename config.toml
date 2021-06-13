@@ -15,7 +15,6 @@ enableEmoji = true
 author = "Paulo Elienay"
 description = "John Doe's personal website"
 keywords = "blog,filosofia,futebol"
-info = "Somos apenas aprendizes nessa estrada."
 avatarURL = "images/avatar.jpg"
 #gravatar = "john.doe@example.com"
 dateFormat = "January 2, 2006"
@@ -129,8 +128,8 @@ weight = 5
 url = "https://www.linkedin.com/in/paulo-elienay-695b7730/"
 
 [[params.social]]
-name = "E-mail"
-icon = "fa fa-e-mail"
+name = "Mailto"
+icon = "fa fa-mailto"
 weight = 6
 url = "mailto:pauloelienay@uol.com.br"
 
@@ -167,9 +166,9 @@ weight = 4
 url = "categories/futebol"
 
 [[languages.pt-br.menu.main]]
-name = "Arquivos"
+name = "Arquivo"
 weight = 5
-url = "arquivos/"
+url = "arquivo/"
 
 [[languages.pt-br.menu.main]]
 name = "Sobre"
