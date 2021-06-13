@@ -128,8 +128,8 @@ weight = 5
 url = "https://www.linkedin.com/in/paulo-elienay-695b7730/"
 
 [[params.social]]
-name = "Mail"
-icon = "fa fa-mail"
+name = "Envelope"
+icon = "fa fa-envelope"
 weight = 6
 url = "mailto:pauloelienay@uol.com.br"
 
