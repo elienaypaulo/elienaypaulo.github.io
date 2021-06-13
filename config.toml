@@ -1,4 +1,4 @@
-baseURL = "pauloelienay.com.br"
+baseURL = "https://pauloelienay.com.br"
 title = "pauloelienay"
 theme = "hugo-coder"
 languageCode = "pt-br"
