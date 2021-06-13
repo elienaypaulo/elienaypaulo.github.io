@@ -1,10 +1,16 @@
 ---
-title: Sobre o Enderson
-author: Paulo Elienay
-avatar: assets/Paulo.jpeg
-categories:
-  - Gandaia
+categories: [Gandaia]
+author:
+  name: "Paulo Elienay"
+date: 2019-04-21
+linktitle: Minhas impressões sobre o Enderson Moreira
+type:
+- post
+- posts
+title: Minhas impressões sobre o Enderson Moreira
+weight: 2
 ---
+
 Quando eu digo que não gostei do nome do Enderson Moreira para o comando técnico do Ceará, me refiro ao fato de não ter visto ainda trabalhos significativos que o coloquem como um grande técnico no cenário nacional.
 
 É do conhecimento de todos o excelente trabalho que ele fez no Goiás e no América mineiro, mas quando teve oportunidades em outros clubes de grande torcida e, consequentemente mais exigentes, ele não foi tão bem.
