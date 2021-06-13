@@ -15,6 +15,8 @@ Ceará x Chapecoense
 * Vitórias do Ceará: 04
 * Empates: 02
 * Vitórias da Chapecoense: 02
+* Gols marcados: 14
+* Gols sofridos: 09
 
 Ceará como mandante
 - Total de jogos: 04
