@@ -18,7 +18,7 @@ keywords = "blog,filosofia,futebol"
 info = "Full Stack DevOps and Magician"
 avatarURL = "images/avatar.jpg"
 #gravatar = "john.doe@example.com"
-footerContent = "Enter a text here."
+footerContent = 
 dateFormat = "January 2, 2006"
 hideFooter = false
 hideCredits = false
@@ -115,7 +115,7 @@ url = "https://facebook.com/pauloelienay"
 name = "Instagram"
 icon = "fa fa-instagram"
 weight = 3
-url = "https://instagram.com/elenaypaulo"
+url = "https://instagram.com/elienaypaulo"
 
 [[params.social]]
 name = "YouTube"
@@ -128,6 +128,12 @@ name = "LinkedIn"
 icon = "fa fa-linkedin"
 weight = 5
 url = "https://www.linkedin.com/in/paulo-elienay-695b7730/"
+
+[[params.social]]
+name = "E-mail"
+icon = "fa fa-email"
+weight = 6
+url = "mailto:pauloelienay@uol.com.br"
 
 [[params.social]]
 name = "RSS"
