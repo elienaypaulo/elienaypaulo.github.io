@@ -3,11 +3,11 @@ categories: [Gandaia]
 author:
   name: "Paulo Elienay"
 date: 2021-06-13
-linktitle: Confronto Direto - Ceará x Chapecoense
+linktitle: Confronto - Ceará x Chapecoense
 type:
 - post
 - posts
-title: Confronto Direto - Ceará x Chapecoense
+title: Confronto - Ceará x Chapecoense
 weight: 10
 ---
 Ceará x Chapecoense
