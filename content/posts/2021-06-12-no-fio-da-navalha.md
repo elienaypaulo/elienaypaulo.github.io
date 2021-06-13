@@ -26,3 +26,4 @@ Hoje pela manhã o Ceará fez uma atividade em campo no Moisés Lucarelli, na ci
 - Assistente: Evandro de Melo Lima – SP
 - Assistente: Fabrini Beviláqua Costa – SP
 - Árbitro de vídeo: Carlos Eduardo Nunes Braga – RJ
+
