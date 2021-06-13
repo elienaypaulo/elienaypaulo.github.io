@@ -14,5 +14,5 @@ weight: 10
 
 |  Centralizado   |   Esquerda      |  Centralizado   |Centralizado     |    Direita      |
 |      :---:      |            ---: |      :---:      | :---            | :---            |
-| git status      | git status      | git status      | git status      | git status      |
+| 2019-11-17      | Chapecoense     | 1 x 0           | Ceará           | Brasileirão     |
 | git diff        | git diff        | git diff        | git diff        | git diff        |
