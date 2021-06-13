@@ -1,9 +1,14 @@
 ---
-title: Meu Protesto
-author: Paulo Elienay
-avatar: assets/Paulo.jpeg
-categories:
-  - Gandaia
+categories: [Gandaia]
+author:
+  name: "Paulo Elienay"
+date: 2012-03-24
+linktitle: Meu protesto
+type:
+- post
+- posts
+title: Meu protesto
+weight: 10
 ---
 Tem jornalista que faz pesadas críticas a torcedores por causa de tweet's mal educados. Alguns da imprensa até adoram ficar divulgando que todos os dias dão "block" em seguidores, como se isso os valorizasse de alguma forma.
 
