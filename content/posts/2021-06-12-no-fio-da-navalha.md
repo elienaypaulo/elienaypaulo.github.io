@@ -8,7 +8,7 @@ type:
 - post
 - posts
 title: No fio da navalha
-weight: 1
+weight: 10
 ---
 Depois de vencer o Grêmio na partida de estreia no Castelão, e de perder para o Santos na Vila Belmiro em jogo válido pela 2ª rodada do Brasileirão, amanhã o Ceará terá mais um desafio, irá enfrentar a Chapecoense em um jogo que ganhou ainda mais importância em virtude dos péssimos resultados obtidos desde a decisão da Copa do Nordeste.
 
@@ -16,14 +16,15 @@ O time continua sob o comando de Guto Ferreira, mas o técnico alvinegro vive o 
 
 Hoje pela manhã o Ceará fez uma atividade em campo no Moisés Lucarelli, na cidade de Campinas, de onde partiu para Chapecó, onde enfrentará a equipe da casa amanhã à noite. Espero que amanhã o time se apresente com uma postura bem diferente do que temos visto nos últimos jogos, e que possamos conquistar mais três pontos nessa longa e árdua jornada que é o Campeonato Brasileiro.
 
-Chapecoense x Ceará<br />
-Campeonato Brasileiro - 3ª rodada<br />
-Arena Condá - Chapecó/SC<br />
-Domingo - 13/06 - 20h30<br />
-Canal Premiere<br />
+Chapecoense x Ceará
+Campeonato Brasileiro - 3ª rodada
+Arena Condá - Chapecó/SC
+Domingo - 13/06 - 20h30
+Canal Premiere
 
-Arbitragem <br />
-Árbitro: Vinícius Gonçalves Dias Araújo – SP<br />
-Assistente: Evandro de Melo Lima – SP<br />
-Assistente: Fabrini Beviláqua Costa – SP<br />
-Árbitro de vídeo: Carlos Eduardo Nunes Braga – RJ<br />
+Arbitragem
+
+Árbitro: Vinícius Gonçalves Dias Araújo – SP
+Assistente: Evandro de Melo Lima – SP
+Assistente: Fabrini Beviláqua Costa – SP
+Árbitro de vídeo: Carlos Eduardo Nunes Braga – RJ
