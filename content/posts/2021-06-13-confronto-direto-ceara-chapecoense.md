@@ -10,8 +10,7 @@ type:
 title: Confronto Direto - Ceará x Chapecoense
 weight: 10
 ---
-Confronto direto - Ceará x Chapecoense
-
+Ceará x Chapecoense
 * Total de jogos: 08
 * Vitórias do Ceará: 04
 * Empates: 02
