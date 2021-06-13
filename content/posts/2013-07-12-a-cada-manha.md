@@ -1,9 +1,14 @@
 ---
-title: A Cada Manhã
-author: Paulo Elienay
-avatar: assets/Paulo.jpeg
-categories:
-  - Reflexões
+categories: [Reflexões]
+author:
+  name: "Paulo Elienay"
+date: 2013-07-12
+linktitle: A cada manhã
+type:
+- post
+- posts
+title: A cada manhã
+weight: 10
 ---
 A nossa vida não segue um padrão, não é uma constante. Não caminhamos sobre uma estrada perfeita, ao contrário, o chão em que nós pisamos é muito acidentado, por isso a nossa vida é tão cheia de curvas sinuosas, de surpresas. E se isso não fosse o bastante para que a nossa viagem fosse repleta de emoções ainda existe um fator determinante e complicador que é a luta que travamos contra nós mesmos.
 
