@@ -15,10 +15,9 @@ enableEmoji = true
 author = "Paulo Elienay"
 description = "John Doe's personal website"
 keywords = "blog,filosofia,futebol"
-info = "Full Stack DevOps and Magician"
+info = "Somos apenas aprendizes nessa estrada."
 avatarURL = "images/avatar.jpg"
 #gravatar = "john.doe@example.com"
-footerContent = 
 dateFormat = "January 2, 2006"
 hideFooter = false
 hideCredits = false
@@ -131,7 +130,7 @@ url = "https://www.linkedin.com/in/paulo-elienay-695b7730/"
 
 [[params.social]]
 name = "E-mail"
-icon = "fa fa-email"
+icon = "fa fa-e-mail"
 weight = 6
 url = "mailto:pauloelienay@uol.com.br"
 
@@ -148,14 +147,14 @@ languageName = ":brazil:"
 title = "Paulo Elienay"
 
 [[languages.pt-br.menu.main]]
-name = "Sobre"
+name = "Reflexões"
 weight = 1
-url = "sobre/"
+url = "categories/reflex%C3%B5es/"
 
 [[languages.pt-br.menu.main]]
-name = "Reflexões"
+name = "Filosofia"
 weight = 2
-url = "categories/reflex%C3%B5es/"
+url = "categories/filosofia"
 
 [[languages.pt-br.menu.main]]
 name = "Matemática"
@@ -163,21 +162,16 @@ weight = 3
 url = "categories/matematica"
 
 [[languages.pt-br.menu.main]]
-name = "Filosofando"
+name = "Futebol"
 weight = 4
-url = "categories/filosofando"
-
-[[languages.pt-br.menu.main]]
-name = "Gandaia"
-weight = 5
-url = "categories/gandaia"
+url = "categories/futebol"
 
 [[languages.pt-br.menu.main]]
 name = "Arquivos"
-weight = 6
+weight = 5
 url = "arquivos/"
 
 [[languages.pt-br.menu.main]]
-name = "Contato"
-weight = 10
-url = "contato/"
+name = "Sobre"
+weight = 6
+url = "sobre/"
