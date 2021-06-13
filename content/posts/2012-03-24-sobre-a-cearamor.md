@@ -1,9 +1,14 @@
 ---
+categories: [Gandaia]
+author:
+  name: "Paulo Elienay"
+date: 2012-03-24
+linktitle: Sobre a Cearamor
+type:
+- post
+- posts
 title: Sobre a Cearamor
-author: Paulo Elienay
-avatar: assets/Paulo.jpeg
-categories:
-  - Gandaia
+weight: 10
 ---
 Torcida Cearamor faz greve e decide não ir ao PV por causa de ingressos, torcida Cangaceiros Alvinegros soltam nota de apoio à Cearamor e por tabela, de repudio ao presidente Evandro Leitão, não sei se esse é o caminho.
 
