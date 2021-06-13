@@ -16,14 +16,14 @@ O time continua sob o comando de Guto Ferreira, mas o técnico alvinegro vive o 
 
 Hoje pela manhã o Ceará fez uma atividade em campo no Moisés Lucarelli, na cidade de Campinas, de onde partiu para Chapecó, onde enfrentará a equipe da casa amanhã à noite. Espero que amanhã o time se apresente com uma postura bem diferente do que temos visto nos últimos jogos, e que possamos conquistar mais três pontos nessa longa e árdua jornada que é o Campeonato Brasileiro.
 
-Chapecoense x Ceará <p>
-Campeonato Brasileiro - 3ª rodada <p>
-Arena Condá - Chapecó/SC <p>
-Domingo - 13/06 - 20h30 <p>
-Canal Premiere <p>
+Chapecoense x Ceará<p>
+Campeonato Brasileiro - 3ª rodada<p>
+Arena Condá - Chapecó/SC<p>
+Domingo - 13/06 - 20h30<p>
+Canal Premiere<p>
 
 Arbitragem <br />
-Árbitro: Vinícius Gonçalves Dias Araújo – SP <br />
-Assistente: Evandro de Melo Lima – SP <br />
-Assistente: Fabrini Beviláqua Costa – SP <br />
-Árbitro de vídeo: Carlos Eduardo Nunes Braga – RJ <br />
+Árbitro: Vinícius Gonçalves Dias Araújo – SP<br />
+Assistente: Evandro de Melo Lima – SP<br />
+Assistente: Fabrini Beviláqua Costa – SP<br />
+Árbitro de vídeo: Carlos Eduardo Nunes Braga – RJ<br />
