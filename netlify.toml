@@ -1,10 +1,10 @@
 [build]
-publish = "elienaypaulo.github.ioexampleSite/public"
-command = "cd elienaypaulo.github.io && hugo --themesDir=../.. --baseURL $URL"
+publish = "blog/public"
+command = "cd blog && hugo --themesDir=../.. --baseURL $URL"
 
 [build.environment]
 HUGO_VERSION = "0.77.0"
 HUGO_THEME = "hugo-coder"
 
 [context.deploy-preview]
-command = "cd elienaypaulo.github.io &&  hugo --themesDir=../.. --buildFuture --buildDrafts --baseURL $DEPLOY_PRIME_URL"
+command = "cd blog &&  hugo --themesDir=../.. --buildFuture --buildDrafts --baseURL $DEPLOY_PRIME_URL"
