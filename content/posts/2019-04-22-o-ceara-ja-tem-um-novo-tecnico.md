@@ -2,7 +2,7 @@
 categories: [Gandaia]
 author:
   name: "Paulo Elienay"
-date: 2019-04-21
+date: 2019-04-22
 linktitle: O Ceará já tem um novo técnico
 type:
 - post
