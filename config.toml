@@ -139,26 +139,21 @@ weight = 1
 url = "categories/reflex%C3%B5es/"
 
 [[languages.pt-br.menu.main]]
-name = "Filosofia"
+name = "Filosofando"
 weight = 2
-url = "categories/filosofia"
+url = "categories/filosofando"
 
 [[languages.pt-br.menu.main]]
-name = "Matemática"
+name = "Gandaia"
 weight = 3
-url = "categories/matematica"
+url = "categories/gandaia"
 
 [[languages.pt-br.menu.main]]
-name = "Futebol"
+name = "Posts"
 weight = 4
-url = "categories/futebol"
-
-[[languages.pt-br.menu.main]]
-name = "Arquivo"
-weight = 5
-url = "arquivo/"
+url = "posts/"
 
 [[languages.pt-br.menu.main]]
 name = "Sobre"
-weight = 6
+weight = 5
 url = "sobre/" 
