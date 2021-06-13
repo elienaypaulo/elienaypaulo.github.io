@@ -154,6 +154,11 @@ weight = 4
 url = "posts/"
 
 [[languages.pt-br.menu.main]]
-name = "Sobre"
+name = "Arquivo"
 weight = 5
+url = "arquivo/"
+
+[[languages.pt-br.menu.main]]
+name = "Sobre"
+weight = 6
 url = "sobre/" 
