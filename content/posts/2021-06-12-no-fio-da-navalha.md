@@ -2,7 +2,7 @@
 categories: [Gandaia]
 author:
   name: "Paulo Elienay"
-date: 2019-04-21
+date: 2021-06-12
 linktitle: No fio da navalha
 type:
 - post
