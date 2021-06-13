@@ -1,9 +1,16 @@
 ---
-title: Vivendo o Cristianismo
-author: Paulo Elienay
-avatar: assets/Paulo.jpeg
-categories:
-  - Reflexões
+categories: ["linux", "iniciantes"]
+author:
+  name: "Paulo Elienay"
+date: 2019-07-21
+linktitle: Vivendo o cristianismo
+type:
+- post
+- posts
+title: Vivendo o cristianismo
+weight: 10
+series:
+- Linux
 ---
 Quem não consegue amar e se importar com o próximo, como pode dizer que ama a Deus? 
 
