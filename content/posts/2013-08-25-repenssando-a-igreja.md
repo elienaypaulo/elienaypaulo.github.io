@@ -1,9 +1,14 @@
 ---
-title: Repenssando a Igreja
-author: Paulo Elienay
-avatar: assets/Paulo.jpeg
-categories:
-  - Reflexões
+categories: [Reflexões]
+author:
+  name: "Paulo Elienay"
+date: 2013-08-25
+linktitle: Repensando a igreja
+type:
+- post
+- posts
+title: Repensando a igreja
+weight: 10
 ---
 
 Não tenho dificuldade de me submeter à autoridade. Não sou defensor de uma estrutura anárquica. Sei que o princípio de autoridade é fundamental na estrutura de qualquer organização social, seja uma nação, uma cidade, uma empresa, uma igreja, uma escola ou uma família. Mas também sei que qualquer estrutura tende a gerar um sistema danoso, que se torna naturalmente alvo de críticas, quando coloca a organização ou o poder acima das relações pessoais. Devemos nos preocupar mais com pessoas e menos com projetos. Devemos refletir bastante antes de tomar decisões, principalmente quando essas decisões vão interferir na vida de outras pessoas.
