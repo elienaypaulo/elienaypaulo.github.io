@@ -1,9 +1,14 @@
 ---
-title: Fortaleza 0 x 1 Ceará
-author: Paulo Elienay
-avatar: assets/Paulo.jpeg
-categories:
-  - Gandaia
+categories: [Gandaia]
+author:
+  name: "Paulo Elienay"
+date: 2012-03-25
+linktitle: Vozão vence o Clássico-Rei na raça
+type:
+- post
+- posts
+title: Vozão vence o Clássico-Rei na raça
+weight: 10
 ---
 O Clássico-Rei desse domingo ficará eternizado na nossa memória. Tanto dos 16 mil torcedores que foram ao PV, como dos milhões de torcedores que acompanharam pela telinha nos bares, restaurantes e lares espalhados por todo o estado.
 
