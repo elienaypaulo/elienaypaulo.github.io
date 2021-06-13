@@ -18,21 +18,23 @@ Outro diferencial do Clássico-Rei de hoje é o uso do VAR, quando definitivamen
 
 Espero que tenhamos um grande jogo e que o Ceará conquiste mais um tricampeonato estadual.
 
-Ceará 0 x 1 Fortaleza (Agregado: 0x3)
-Campeonato Cearense 2019 - Final
-Estádio Castelão – Fortaleza/CE
-Público pagante: 42.197
-Público não pagante: 898
-Público total: 43.095
-Renda: R$ 1.013.559.00
+* Ceará 0 x 1 Fortaleza (Agregado: 0x3)
+* Campeonato Cearense 2019 - Final
+* Estádio Castelão – Fortaleza/CE
+* Público pagante: 42.197
+* Público não pagante: 898
+* Público total: 43.095
+* Renda: R$ 1.013.559.00
 
-Árbitro: Anderson Daronco
-Auxiliares: Fábio Pereira-Master – TO e Victor Hugo Imazu Dos Santos – PR 
-Quarto árbitro: Luiz César Magalhães- CE
-Quinto árbitro: Nailton Junior De Oliveira – CE
-VAR: José Cláudio da Rocha Filho – SP
-AVAR1: Fabrício Porfírio de Moura – SP 
-AVAR2: Márcio Henrique de Góis – SP 
+Arbitragem
+- Árbitro: Anderson Daronco
+- Auxiliar: Fábio Pereira-Master – TO
+- Auxiliar: Victor Hugo Imazu Dos Santos – PR 
+- Quarto árbitro: Luiz César Magalhães- CE
+- Quinto árbitro: Nailton Junior De Oliveira – CE
+- VAR: José Cláudio da Rocha Filho – SP
+- AVAR1: Fabrício Porfírio de Moura – SP 
+- AVAR2: Márcio Henrique de Góis – SP 
 
 História do Clássico-Rei
 
