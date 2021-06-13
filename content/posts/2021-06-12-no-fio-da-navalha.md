@@ -17,7 +17,7 @@ Arena Condá - Chapecó/SC <br>
 Domingo - 13/06 - 20h30 <br>
 Canal Premiere <br>
 
-Arbitragem
+Arbitragem <br>
 Árbitro: Vinícius Gonçalves Dias Araújo – SP <br>
 Assistente: Evandro de Melo Lima – SP <br>
 Assistente: Fabrini Beviláqua Costa – SP <br>
