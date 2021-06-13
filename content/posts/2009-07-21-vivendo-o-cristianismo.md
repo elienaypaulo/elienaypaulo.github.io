@@ -6,7 +6,7 @@ date: 2019-07-21
 linktitle: Vivendo o cristianismo
 type:
 - post
-- posts
+- Arquivo
 title: Vivendo o cristianismo
 weight: 10
 ---
