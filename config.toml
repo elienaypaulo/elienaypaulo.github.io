@@ -106,22 +106,28 @@ weight = 1
 url = "https://twitter.com/pauloelienay/"
 
 [[params.social]]
-name = "YouTube"
-icon = "fa fa-youtube"
-weight = 2
-url = "https://youtube.com"
-
-[[params.social]]
 name = "Facebook"
 icon = "fa fa-facebook"
 weight = 3
-url = "https://youtube.com"
+url = "https://facebook.com/pauloelienay"
+
+[[params.social]]
+name = "Instagram"
+icon = "fa fa-instagran"
+weight = 2
+url = "https://instagram.com/elenaypaulo"
+
+[[params.social]]
+name = "YouTube"
+icon = "fa fa-youtube"
+weight = 2
+url = "https://youtube.com/PauloElienay"
 
 [[params.social]]
 name = "LinkedIn"
 icon = "fa fa-linkedin"
 weight = 4
-url = "https://www.linkedin.com/"
+url = "https://www.linkedin.com/in/paulo-elienay-695b7730/"
 
 [[params.social]]
 name = "RSS"
@@ -141,24 +147,29 @@ weight = 1
 url = "sobre/"
 
 [[languages.pt-br.menu.main]]
-name = "Posts"
-weight = 2
-url = "posts/"
-
-[[languages.pt-br.menu.main]]
 name = "Reflexões"
-weight = 3
+weight = 2
 url = "categories/reflex%C3%B5es/"
 
 [[languages.pt-br.menu.main]]
-name = "Gandaia"
+name = "Matemática"
 weight = 3
-url = "categories/gandaia"
+url = "categories/matematica"
 
 [[languages.pt-br.menu.main]]
 name = "Filosofando"
 weight = 4
 url = "categories/filosofando"
+
+[[languages.pt-br.menu.main]]
+name = "Gandaia"
+weight = 5
+url = "categories/gandaia"
+
+[[languages.pt-br.menu.main]]
+name = "Arquivos"
+weight = 6
+url = "arquivos/"
 
 [[languages.pt-br.menu.main]]
 name = "Contato"
