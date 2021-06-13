@@ -1,5 +1,5 @@
 ---
-categories: [Gandaia]
+categories: ["Gandaia"]
 author:
   name: "Paulo Elienay"
 date: 2012-03-23
