@@ -1,9 +1,14 @@
 ---
-title: Decisão no Castelão
-author: Paulo Elienay
-avatar: assets/Paulo.jpeg
-categories:
-  - Gandaia
+categories: [Gandaia]
+author:
+  name: "Paulo Elienay"
+date: 2019-04-21
+linktitle: Hoje tem decisão no Castelão
+type:
+- post
+- posts
+title: Hoje tem decisão no Castelão
+weight: 10
 ---
 Hoje é dia de Clássico-Rei, e isso por si só já é suficiente para alterar a vida normal da capital de todos os cearenses, mas como se não bastasse, hoje Ceará e Fortaleza estarão se enfrentando no jogo 570 entre partidas oficiais e amistosas, e além do mais, estará sendo decidido o título do campeonato cearense.
 
