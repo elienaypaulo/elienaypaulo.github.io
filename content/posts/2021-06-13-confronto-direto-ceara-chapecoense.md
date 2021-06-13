@@ -23,6 +23,8 @@ Ceará como mandante
 - Vitórias: 03
 - Empates: 01
 - Derrotas: 00
+- Gols marcados: 11
+- Gols sofridos: 04
 - Aproveitamento: 83,33%
 
 Ceará como visitante
@@ -30,6 +32,8 @@ Ceará como visitante
 - Vitórias: 01
 - Empates: 01
 - Derrotas: 02
+- Gols marcados: 03
+- Gols sofridos: 05
 - Aproveitamento: 33,33%
 
 |       Data       |                 |      Placar     |                 | Competição      |
