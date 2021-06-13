@@ -8,7 +8,7 @@ type:
 - post
 - posts
 title: Minhas impressões sobre o Enderson Moreira
-weight: 2
+weight: 12
 ---
 
 Quando eu digo que não gostei do nome do Enderson Moreira para o comando técnico do Ceará, me refiro ao fato de não ter visto ainda trabalhos significativos que o coloquem como um grande técnico no cenário nacional.
