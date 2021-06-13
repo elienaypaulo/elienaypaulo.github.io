@@ -42,7 +42,6 @@ História do Clássico-Rei
 - Vitórias do Ceará: 160
 - Vitórias do Fortaleza: 151
 - Empates: 180
-           
 - Todos os confrontos: 569
 - Vitórias do Ceará: 192
 - Vitórias do Fortaleza: 174
