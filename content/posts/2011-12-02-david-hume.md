@@ -1,9 +1,14 @@
 ---
-title: David Hume
-author: Paulo Elienay
-avatar: assets/Paulo.jpeg
-categories:
-  - Filosofando
+categories: [Filosofando]
+author:
+  name: "Paulo Elienay"
+date: 2011-12-02
+linktitle: O empirismo de David Hume
+type:
+- post
+- posts
+title: O empirismo de David Hume
+weight: 10
 ---
 
 David Hume fez uma investigação sobre a origem, a possibilidade e os limites do conhecimento. Para ele a razão humana é limitada e não há um fundamento objetivo para o conhecimento. Como empirista, seu pensamento se opôs ao racionalismo de Descartes. Para Hume, o conhecimento deriva da experiência, e as ideias se originam nas impressões dos sentidos, portanto não há ideias inatas.
