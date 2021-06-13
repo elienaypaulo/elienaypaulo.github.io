@@ -1,9 +1,14 @@
 ---
-title: Ceará 3 x 0 Horizonte
-author: Paulo Elienay
-avatar: assets/Paulo.jpeg
-categories:
-  - Gandaia
+categories: [Gandaia]
+author:
+  name: "Paulo Elienay"
+date: 2012-03-22
+linktitle: Vozão vence o Horizonte e já pensa no Clássico-Rei
+type:
+- post
+- posts
+title: Vozão vence o Horizonte e já pensa no Clássico-Rei
+weight: 10
 ---
 Na segunda apresentação sob o comando de PC Gusmão o Ceará conquistou mais uma vitória. Em uma partida com poucas dificuldades contra o então vice-líder do campeonato, o Ceará soube se impor e conquistou três pontos importantes para a sequência do Cearense 2012.
 
