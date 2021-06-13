@@ -18,8 +18,11 @@ Não resta a menor dúvida de como é grande a emoção de ver um estádio cheio
 
 Lembrem-se que somos rivais, mas não somos inimigos.
 
-História do Clássico-Rei
+* Fortaleza x Ceará
+* Cearense 2012 - Estádio Presidente Vargas - Fortaleza/CE
+* Domingo, dia 25 de março, às 16h
 
+História do Clássico-Rei
 - 544 jogos no total
 - 180 Vitórias do Ceará
 - 167 Vitórias do Fortaleza
@@ -29,19 +32,13 @@ História do Clássico-Rei
 - Maior invencibilidade do Fortaleza: 16 jogos (1999/2001)
 - Maior público: 60.363 pagantes (06/01/1991)
 
-- Fortaleza x Ceará
-- Cearense 2012 - Estádio Presidente Vargas - Fortaleza/CE
-- Domingo, dia 25 de março, às 16h
-
 Valores dos ingressos:
-
 - Arquibancada - Inteira: R$ 30,00 (Trinta reais)
 - Arquibancada - Meia: R$ 15,00 (Quinze reais)
 - Setor especial - Inteira: R$ 60,00 (Sessenta reais)
 - Setor especial - Meia: R$ 30,00 (Trinta reais)
 
 Arbitragem - Quadro FIFA
-
 - Árbitro: Avelar Rodrigo da Silva/CE
 - Assistente Nº 1: Thiago Gomes Brígido/CE
 - Assistente N° 2: Marcione Mardonio da Silva Ribeiro/CE
