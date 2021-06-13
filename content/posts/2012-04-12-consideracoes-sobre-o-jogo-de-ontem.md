@@ -10,7 +10,7 @@ type:
 title: Considerações sobre o jogo de ontem
 weight: 10
 ---
-O futebol é realmente um esporte diferenciado. Em qualquer outro esporte a melhor equipe normalmente sai vencedora, mas no futebol, o esporte que é uma "caixinha de surpresas" nem sempre a melhor equipe vence. 
+O futebol é realmente um esporte diferenciado. Em outros esportes a melhor equipe normalmente sai vencedora, mas no futebol, o esporte que é uma "caixinha de surpresas", nem sempre a melhor equipe vence. 
 
 Não são poucos os exemplos que ao longo da história servem para justificar essa tese. Afinal de contas quem não lembra do fatídico duelo entre brasileiros e italianos no estádio Sarriá, pela Copa do Mundo da Espanha, no dia 05 de julho de 1982, em que a melhor seleção de todos os tempos, na minha opinião, perdeu e foi desclassificada, deixando toda uma nação perplexa.
 
@@ -20,7 +20,7 @@ Dessa forma, com esse exemplo histórico, quero dizer aos alvinegros que não ex
 
 Pela lógica o Ceará deveria ter atropelado o time paranista, e chegou perto, pois aos 15 minutos do 1º tempo, sem nenhum exagero, já poderíamos estar vencendo por uns três gols de vantagem, o que teria minado as forças de reação da equipe visitante, mas como não soubemos aproveitar as nossas oportunidades, sofremos esse castigo, que na verdade coloca em xeque a nossa classificação às oitavas-de-final da Copa do Brasil, entretanto, nada está perdido, pois lá em Curitiba o Ceará tem plenas condições de se impor e trazer a classificação para o gáudio da Nação Alvinegra.
 
-Ceará 2 x 2 Paraná
-Copa do Brasil 2012 - 2ª fase - Jogo de ida
-Estádio Presidente Vargas - Fortaleza/CE
-Renda: R$ 145.124,00 - Público: 11.952 pagantes
+- Ceará 2 x 2 Paraná
+- Copa do Brasil 2012 - 2ª fase - Jogo de ida
+- Estádio Presidente Vargas - Fortaleza/CE
+- Renda: R$ 145.124,00 - Público: 11.952 pagantes
