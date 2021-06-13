@@ -2,7 +2,7 @@
 categories: [Gandaia]
 author:
   name: "Paulo Elienay"
-date: 2019-04-21
+date: 2019-04-22
 linktitle: Minhas impressões sobre o Enderson Moreira
 type:
 - post
