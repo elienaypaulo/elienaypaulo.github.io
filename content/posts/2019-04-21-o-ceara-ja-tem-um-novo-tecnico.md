@@ -17,4 +17,5 @@ Enderson Moreira já tem passagens pelo Ipatinga, Fluminense, Goiás, Grêmio, S
 Títulos:
 
 Campeão goiano pelo Goiás em 2012, 2013 e 2016.
+
 Conquistou o acesso para a Série A em 2012 pelo Goiás e em 2017 pelo América mineiro.
