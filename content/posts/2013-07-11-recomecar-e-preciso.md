@@ -1,9 +1,14 @@
 ---
-title: Reconstruindo-se
-author: Paulo Elienay
-avatar: assets/Paulo.jpeg
-categories:
-  - Reflexões
+categories: [Reflexões]
+author:
+  name: "Paulo Elienay"
+date: 2013-07-11
+linktitle: Recomeção é preciso
+type:
+- post
+- posts
+title: Recomeçar é preciso
+weight: 10
 ---
 Voltar no tempo e consertar todos os nossos erros não é possível. Mas reconhecer o erro, arrepender-se e estar disposto a mudar, esse é o caminho. E a partir daí começar tudo de novo, do zero, como se fosse o primeiro dia de uma nova vida, com o desejo de escrever uma nova história.
 
