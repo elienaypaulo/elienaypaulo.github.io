@@ -22,7 +22,8 @@ Até que a solução saiu do banco de reservas do Mais Querido. PC Gusmão chamo
 
 Logo após o gol do Ceará, o árbitro Avelar Rodrigo apitou para o centro do gramado, e encerrou o jogo, que marcou mais uma vitória do Vozão sob o comando do bruxo PC Gusmão. A vitória garantiu mais três pontos para o Mais Querido, e a diferença para o cavalo paraguaio que no fim-de-semana passado chegou a 11 pontos, agora caiu para 2 pontos, fazendo com que seja perfeitamente viável o Ceará terminar a fase classificatória do Cearense 2012 em 1º lugar, o que lhe garantirá vantagem na fase final.
 
-Fortaleza 0 x 1 Ceará
-Cearense 2012 - 18ª rodada da Fase Classificatória
-Estádio Presidente Vargas - Fortaleza/CE
-Renda: R$ 388.971,00 - Público: 15.197 pagantes
+* Fortaleza 0 x 1 Ceará
+* Cearense 2012 - 18ª rodada - Fase Classificatória
+* Estádio Presidente Vargas - Fortaleza/CE
+* Renda: R$ 388.971,00
+* Público: 15.197 pagantes
