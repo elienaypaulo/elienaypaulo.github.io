@@ -7,7 +7,7 @@ linktitle: Brasileirão 2021
 type:
 - post
 - posts
-title: Confronto - Brasileirão 2021
+title: Brasileirão 2021
 weight: 1
 ---
 ## Campeonato Brasileiro 2021
