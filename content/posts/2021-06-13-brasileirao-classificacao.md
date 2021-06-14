@@ -10,9 +10,9 @@ type:
 title: Brasileirão 2021
 weight: 1
 ---
-## Campeonato Brasileiro 2021
+# Campeonato Brasileiro
 
-### Classificação
+Classificação
 
 |        | Time                |  PG   |   J   |   V   |   E   |   D   |  GP   |  GC   |  SG   |   %   |
 | :---:  | :---                | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
