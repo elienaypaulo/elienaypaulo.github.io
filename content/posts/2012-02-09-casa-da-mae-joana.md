@@ -1,9 +1,14 @@
 ---
-title: Casa da Mãe Joana
-author: Paulo Elienay
-avatar: assets/Paulo.jpeg
-categories:
-  - Gandaia
+categories: [Gandaia]
+author:
+  name: "Paulo Elienay"
+date: 2012-02-09
+linktitle: Casa da mãe Joana
+type:
+- post
+- posts
+title: Casa da mãe Joana
+weight: 10
 ---
 O comentário do Sérgio Pinheiro no programa da rádio Verdes Mares agora à pouco, em relação ao que aconteceu nos bastidores do nosso futebol merece destaque.
 
