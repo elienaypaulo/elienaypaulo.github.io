@@ -1,9 +1,14 @@
 ---
-title: Clássico dos Clássicos
-author: Paulo Elienay
-avatar: assets/Paulo.jpeg
-categories:
-  - Gandaia
+categories: [Gandaia]
+author:
+  name: "Paulo Elienay"
+date: 2012-02-10
+linktitle: Clássico dos clássicos
+type:
+- post
+- posts
+title: Clássico dos clássicos
+weight: 10
 ---
 Ceará e Fortaleza farão no próximo domingo o jogo de número 536, de uma longa história recheada de grandes e inesquecíveis confrontos. Já se vão quase 94 anos desde o primeiro jogo que foi realizado no dia 17 de dezembro de 1918, em que o alvinegro saiu vencedor.
 
@@ -21,30 +26,30 @@ Agora que foi superada essa semana de divergência e de comportamentos intransig
 
 História do Clássico-Rei
 
-535 jogos no total
-180 Vitórias do Ceará
-166 Vitórias do Fortaleza
-189 Empates
-8 Jogos sem resultado conhecido
-Maior invencibilidade do Ceará: 17 jogos (1949/1953)
-Maior invencibilidade do Fortaleza: 16 jogos (1999/2001)
-Maior público: 60.363 pagantes (06/01/1991)
+* 535 jogos no total
+* 180 Vitórias do Ceará
+* 166 Vitórias do Fortaleza
+* 189 Empates
+* 8 Jogos sem resultado conhecido
+  * Maior invencibilidade do Ceará: 17 jogos (1949/1953)
+  * Maior invencibilidade do Fortaleza: 16 jogos (1999/2001)
+  * Maior público: 60.363 pagantes (06/01/1991)
 
-Ceará x Fortaleza
-Cearense 2012 - Estádio Presidente Vargas - Fortaleza/CE
-Domingo, dia 12 de fevereiro, às 16h
+- Ceará x Fortaleza
+- Cearense 2012 - Estádio Presidente Vargas - Fortaleza/CE
+- Domingo, dia 12 de fevereiro, às 16h
 
-Valores dos ingressos:
-Arquibancada - Inteira: R$ 30,00 (Trinta reais)
-Arquibancada - Meia: R$ 15,00 (Quinze reais)
-Setor especial - Inteira: R$ 60,00 (Sessenta reais)
-Setor especial - Meia: R$ 30,00 (Trinta reais)
+Valores dos ingressos
+- Arquibancada - Inteira: R$ 30,00 (Trinta reais)
+- Arquibancada - Meia: R$ 15,00 (Quinze reais)
+- Setor especial - Inteira: R$ 60,00 (Sessenta reais)
+- Setor especial - Meia: R$ 30,00 (Trinta reais)
 
 Arbitragem - Quadro FIFA
-Árbitro: Ricardo Marques/MG
-Assistente Nº 1: Roberto Braatz/PR
-Assistente N° 2: Fabrício Vilarinho/GO
-4º árbitro: Héber Roberto Lopes/PR
+- Árbitro: Ricardo Marques/MG
+- Assistente Nº 1: Roberto Braatz/PR
+- Assistente N° 2: Fabrício Vilarinho/GO
+- 4º árbitro: Héber Roberto Lopes/PR
 
 
 #PazNoClassicoRei
