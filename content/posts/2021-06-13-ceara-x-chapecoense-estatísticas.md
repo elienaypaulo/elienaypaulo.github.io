@@ -3,20 +3,21 @@ categories: [Gandaia]
 author:
   name: "Paulo Elienay"
 date: 2021-06-13
-linktitle: Confronto - Ceará x Chapecoense
+linktitle: Ceará x Chapecoense - Estatísticas
 type:
 - post
 - posts
-title: Confronto - Ceará x Chapecoense
+title: Ceará x Chapecoense - Estatísticas
 weight: 5
 ---
 Ceará x Chapecoense
 * Total de jogos: 09
-* Vitórias do Ceará: 04
+* Vitórias: 04
 * Empates: 03
-* Vitórias da Chapecoense: 02
+* Derrotas: 02
 * Gols marcados: 14
 * Gols sofridos: 09
+* Aproveitamento: 55,5%
 
 Ceará como mandante
 - Total de jogos: 04
@@ -37,7 +38,7 @@ Ceará como visitante
 - Aproveitamento: 33,33%
 
 |   Data   |             |  Placar |             | Competição           |       |
-|   :---:  |        ---: |  :---:  | :---        | :---                 | :---: |
+|   :---:  |        ---: |  :---:  | :---        | :---:                 | :---: |
 | 13/06/21 | Chapecoense |  0 x 0  | Ceará       | Brasileirão 2021     |   09  |
 | 17/11/19 | Chapecoense |  1 x 0  | Ceará       | Brasileirão 2019     |   08  |
 | 10/08/19 |       Ceará |  4 x 1  | Chapecoense | Brasileirão 2019     |   07  |
