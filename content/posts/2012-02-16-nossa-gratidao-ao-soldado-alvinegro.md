@@ -1,9 +1,14 @@
 ---
-title: Nossa Gratidão ao Soldado Alvinegro
-author: Paulo Elienay
-avatar: assets/Paulo.jpeg
-categories:
-  - Gandaia
+categories: [Gandaia]
+author:
+  name: "Paulo Elienay"
+date: 2012-02-16
+linktitle: Nossa gratidão ao Soldado Alvinegro
+type:
+- post
+- posts
+title: Nossa gratidão ao Soldado Alvinegro
+weight: 10
 ---
 Dimas Filgueiras, 67 anos, não é mais o treinador do Ceará. Na manhã de hoje, em reunião com a diretoria, Dimas comunicou a sua decisão. O soldado alvinegro alegou motivos pessoais e problemas de saúde. 
 
