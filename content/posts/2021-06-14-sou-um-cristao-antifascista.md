@@ -10,7 +10,7 @@ type:
 title: Sou um cristão antifascista
 weight: 1
 ---
-Por vezes precisamos destacar, afirmar ou defender ideias que deveriam ser admitidas sem muita dificuldade por liberais, progressistas, crentes, ateus e por qualquer indivíduo que presa pela liberdade e pelo respeito.
+Por vezes precisamos destacar, afirmar ou defender ideias que deveriam ser admitidas sem muita dificuldade por liberais, progressistas, crentes, ateus e por qualquer indivíduo que presa pela liberdade e pelos direitos individuais.
 
 No entanto, desde meados da última década que nós vivenciamos no nosso país um clima de ânimos acirrados, de intolerância e da tentativa de impor um conjunto de ideias a todos, desrespeitando assim a vontade e a própria forma de ser de um coletivo de pessoas.
 
