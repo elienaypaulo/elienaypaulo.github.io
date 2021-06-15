@@ -13,7 +13,7 @@ enableEmoji = true
 
 [params]
 author = "Paulo Elienay"
-description = "John Doe's personal website"
+description = "Paulo Elienay personal website"
 keywords = "blog,filosofia,futebol"
 avatarURL = "images/avatar.png"
 #gravatar = "john.doe@example.com"
