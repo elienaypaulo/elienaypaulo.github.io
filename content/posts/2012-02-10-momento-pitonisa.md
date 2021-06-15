@@ -1,9 +1,14 @@
 ---
+categories: [Gandaia]
+author:
+  name: "Paulo Elienay"
+date: 2012-02-10
+linktitle: Momento Pitonisa
+type:
+- post
+- posts
 title: Momento Pitonisa
-author: Paulo Elienay
-avatar: assets/Paulo.jpeg
-categories:
-  - Gandaia
+weight: 10
 ---
 Para o primeiro Clássico-Rei que será realizado no Cearense 2012 a Federação Cearense decidiu tomar para si o mando de campo. Sem contestar, e confesso que entendo os motivos, a diretoria alvinegra aceitou.
 
