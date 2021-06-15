@@ -1,9 +1,14 @@
 ---
+categories: [Gandaia]
+author:
+  name: "Paulo Elienay"
+date: 2012-02-11
+linktitle: Paz no Clássico-Rei
+type:
+- post
+- posts
 title: Paz no Clássico-Rei
-author: Paulo Elienay
-avatar: assets/Paulo.jpeg
-categories:
-  - Gandaia
+weight: 10
 ---
 Sou completamente apaixonado por futebol,  e para mim a expressão máxima desse sentimento é o meu amor pelo Ceará. Pelo meu Vozão já experimentei todo tipo de emoção, pois o futebol é capaz de te levar do céu ao inferno e vice-versa, de um instante para outro.
 
