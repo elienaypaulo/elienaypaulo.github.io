@@ -1,9 +1,14 @@
 ---
-title: Está na Hora de Passar o Bastão
-author: Paulo Elienay
-avatar: assets/Paulo.jpeg
-categories:
-  - Gandaia
+categories: [Gandaia]
+author:
+  name: "Paulo Elienay"
+date: 2012-02-14
+linktitle: Está na hora de passar o bastão
+type:
+- post
+- posts
+title: Está na hora de passar o bastão
+weight: 10
 ---
 Tenho muito respeito pelo Dimas e pela sua história no Ceará, sempre com muita dedicação, e nunca ousou dizer não a um chamado da diretoria, sempre se comportou como um verdadeiro soldado alvinegro.
 
