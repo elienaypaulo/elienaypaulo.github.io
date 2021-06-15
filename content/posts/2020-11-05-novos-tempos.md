@@ -1,11 +1,15 @@
 ---
-title: Robinson de Castro
-author: Paulo Elienay
-avatar: assets/Paulo.jpeg
-categories:
-  - Gandaia
+categories: [Gandaia]
+author:
+  name: "Paulo Elienay"
+date: 2020-11-05
+linktitle: Novos tempos
+type:
+- post
+- posts
+title: Novos tempos
+weight: 10
 ---
-
 Já fiz duras críticas ao Robinson de Castro nesses últimos 5 anos, a mais recente foi nessa semana sobre o caso Mari Férrer. Já critiquei a gestão centralizada, os vários erros em contrações e principalmente o fato dele ser neófito no futebol na minha visão.
 
 Mas é fato que Evandro Leitão e Robinson de Castro reergueram o Ceará nesses últimos 10 anos. O Ceará estava falido, colecionou fracassos na primeira década do século XXI e vinha se afundando em dívidas principalmente nas décadas de 1990 e 2000.
