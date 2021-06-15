@@ -1,9 +1,14 @@
 ---
-title: Ceará 3 x 0 Itapipoca
-author: Paulo Elienay
-avatar: assets/Paulo.jpeg
-categories:
-  - Gandaia
+categories: [Gandaia]
+author:
+  name: "Paulo Elienay"
+date: 2012-02-15
+linktitle: Mais uma vitória
+type:
+- post
+- posts
+title: Mais uma vitória
+weight: 10
 ---
 Ceará conquista mais uma vitória pelo Cearense 2012. Desta feita o alvinegro venceu o Itapipoca em partida disputada no estádio Presidente Vargas.
 
