@@ -1,9 +1,14 @@
 ---
-title: Meu Desabafo
-author: Paulo Elienay
-avatar: assets/Paulo.jpeg
-categories:
-  - Gandaia
+categories: [Gandaia]
+author:
+  name: "Paulo Elienay"
+date: 2012-02-27
+linktitle: Meu desabafo
+type:
+- post
+- posts
+title: Meu desabafo
+weight: 10
 ---
 De 2009 pra cá a Nação Alvinegra viveu momentos de total êxtase e felicidade com o Ceará Sporting Club, acesso à Serie A, classificação para a Copa Sul-americana, título Estadual de 2011, 3º lugar na Copa do Brasil, dentre outros avanços na parte administrativa, estrutural e financeira. 
 
