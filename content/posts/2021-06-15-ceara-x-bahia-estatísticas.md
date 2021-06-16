@@ -10,6 +10,8 @@ type:
 title: Ceará x Bahia - Estatísticas
 weight: 5
 ---
+![Ceará x Bahia](https://github.com/elienaypaulo/elienaypaulo.github.io/blob/main/static/images/Cear%C3%A1xBahia.jpeg)
+
 Ceará x Bahia – Jogos oficiais
 * Total de jogos: 51
 * Vitórias: 20
