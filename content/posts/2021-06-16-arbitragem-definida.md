@@ -20,6 +20,6 @@ Arbitragem
 Árbitro assistente 2: Márcia Bezerra Lopes Caetano - RO (CBF)  
 Quarto árbitro: Luís César de Oliveira Guimarães - CE (CBF)  
 Analista de campo: Francisco José de Sousa Soares - CE (CBF)  
-Árbitro de vídeo: Pathrice Wallace Corrêa Mais - RJ (CBF)
+Árbitro de vídeo: Pathrice Wallace Corrêa Mais - RJ (CBF)  
 AVAR - Diogo Carvalho Silva - RJ (CBF)  
 Observador de VAR: Marrubson Melo Freitas - DF (CBF)
