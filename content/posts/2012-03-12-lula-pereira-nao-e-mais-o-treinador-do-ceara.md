@@ -1,9 +1,14 @@
 ---
-title: Lula Pereira
-author: Paulo Elienay
-avatar: assets/Paulo.jpeg
-categories:
-  - Gandaia
+categories: [Gandaia]
+author:
+  name: "Paulo Elienay"
+date: 2012-03-12
+linktitle: Lula Pereira não é mais o treinador do Ceará
+type:
+- post
+- posts
+title: Lula Pereira não é mais o treinador do Ceará
+weight: 10
 ---
 Acabou de ser anunciada a demissão do técnico Lula Pereira. No momento o auxiliar Anderson Silva fica responsável pelo elenco até a chegada do novo treinador, que já deve ocorrer amanhã.
 
