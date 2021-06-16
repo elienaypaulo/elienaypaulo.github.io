@@ -1,9 +1,14 @@
 ---
-title: No Ceará, não!
-author: Paulo Elienay
-avatar: assets/Paulo.jpeg
-categories:
-  - Gandaia
+categories: [Gandaia]
+author:
+  name: "Paulo Elienay"
+date: 2012-03-09
+linktitle: No Ceará, não
+type:
+- post
+- posts
+title: No Ceará, não
+weight: 10
 ---
 Quero acreditar que essa história do Ronaldo Angelim de que ele teria recebido, e recusado, uma proposta tentadora do Ceará seja apenas uma tentativa desesperada de um jogador em fim de carreira de tentar se promover.
 
