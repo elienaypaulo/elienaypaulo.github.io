@@ -1,9 +1,14 @@
 ---
+categories: [Gandaia]
+author:
+  name: "Paulo Elienay"
+date: 2012-03-12
+linktitle: Evandro Leitão
+type:
+- post
+- posts
 title: Evandro Leitão
-author: Paulo Elienay
-avatar: assets/Paulo.jpeg
-categories:
-  - Gandaia
+weight: 10
 ---
 Tenho muito respeito por nomes como Eulino Oliveira, Franzé Morais, Antonio Góis, Elísyo Serra, José Lino da Silveira Filho, talvez tenha esquecido de um ou outro, mas acrescento nessa honrosa lista o nome de Evandro Sá Barreto Leitão.
 
