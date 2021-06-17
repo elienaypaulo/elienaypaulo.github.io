@@ -8,7 +8,7 @@ type:
 - post
 - posts
 title: Arbitragem definida
-weight: 10
+weight: 1
 ---
 Amanhã o Ceará volta a campo para enfrentar o Bahia pelo Campeonato Brasileiro. Será o primeiro encontro após a decisão da Copa do Nordeste que acabou com muita confusão e com punição a atletas das duas equipes.
 
