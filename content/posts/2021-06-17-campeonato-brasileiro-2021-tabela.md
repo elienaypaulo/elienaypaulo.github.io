@@ -3,7 +3,7 @@ categories: [Gandaia]
 author:
   name: "Paulo Elienay"
 date: 2021-06-17
-linktitle: Campeonato Brasileiro 2021 - Tabela 
+linktitle: Campeonato Brasileiro 2021 - Tabela  
 type:
 - post
 - posts
