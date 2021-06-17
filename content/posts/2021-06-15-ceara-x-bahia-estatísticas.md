@@ -12,29 +12,31 @@ weight: 5
 ---
 
 Ceará x Bahia – Jogos oficiais
-* Total de jogos: 51
+* Total de jogos: 52
 * Vitórias: 20
 * Empates: 16
-* Derrotas: 15
-* Gols marcados: 61
-* Gols sofridos: 56
+* Derrotas: 16
+* Gols marcados: 62
+* Gols sofridos: 58
+* Aproveitamento: 49%
 
 Ceará x Bahia – Total
-* Total de jogos: 70
+* Total de jogos: 71
 * Vitórias: 22
 * Empates: 24
-* Derrotas: 24
-* Gols marcados: 79
-* Gols sofridos: 86
+* Derrotas: 25
+* Gols marcados: 80
+* Gols sofridos: 88
+* Aproveitamento: 42%
 
 Ceará como mandante – Jogos oficiais
-- Total de jogos: 26
+- Total de jogos: 27
 - Vitórias: 13
 - Empates: 08
-- Derrotas: 05
-- Gols marcados: 36
-- Gols sofridos: 21
-- Aproveitamento: 60%
+- Derrotas: 06
+- Gols marcados: 37
+- Gols sofridos: 23
+- Aproveitamento: 58%
 
 Ceará como visitante – Jogos oficiais
 - Total de jogos: 25
@@ -47,7 +49,7 @@ Ceará como visitante – Jogos oficiais
 
 | Data     |       | Placar |       | Competição  |       |
 | :---:    | ---:  | :---:  | :---  | :---:       | :---: |
-| 17/06/21 | Ceará | x      | Bahia | Brasileirão |   71  |
+| 17/06/21 | Ceará |  1 x 2 | Bahia | Brasileirão |   71  |
 | 08/05/21 | Ceará |  1 x 2 | Bahia | Nordestão   |   70  |
 | 01/05/21 | Bahia |  0 x 1 | Ceará | Nordestão   |   69  |
 | 05/12/20 | Bahia |  0 x 2 | Ceará | Brasileirão |   68  |
