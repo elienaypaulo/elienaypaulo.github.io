@@ -8,7 +8,7 @@ type:
 - post
 - posts
 title: Mais do mesmo
-weight: 10
+weight: 1
 ---
 Jogando contra a Chapecoense na Arena Condá, a equipe alvinegra apenas empatou na noite deste domingo. Novamente o que se viu foi uma equipe desmotivada, sem propósito e resta provado que também está sem comando dentro e fora de campo.
 
