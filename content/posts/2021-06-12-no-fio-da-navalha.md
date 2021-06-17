@@ -8,7 +8,7 @@ type:
 - post
 - posts
 title: No fio da navalha
-weight: 10
+weight: 1
 ---
 Depois de vencer o Grêmio na partida de estreia no Castelão, e de perder para o Santos na Vila Belmiro em jogo válido pela 2ª rodada do Brasileirão, amanhã o Ceará terá mais um desafio, irá enfrentar a Chapecoense em um jogo que ganhou ainda mais importância em virtude dos péssimos resultados obtidos desde a decisão da Copa do Nordeste.
 
