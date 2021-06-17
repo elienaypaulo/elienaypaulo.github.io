@@ -11,18 +11,17 @@ title: Campeonato Brasileiro 2021 - Tabela
 weight: 2
 ---
 Campeonato Brasileiro 2021 - 5ª rodada
-|               |       |       |       |             | Estádio          | Cidade         | Data  | Horário |
-| ---:          | :---: | :---: | :---: | :---        | :---             | :---           | :---: | :---:   |
-| Flamengo      |       | x     |       | Bragantino  | Maracanã         | Rio de Janeiro | 19/06 | 21h00   |
-| Palmeiras     |       | x     |       | América-MG  | Allianz Parque   | São Paulo      | 20/06 | 11h00   |
-| Internacional |       | x     |       | Ceará       | Beira-Rio        | Porto Alegre   | 20/06 | 16h00   |
-| Bahia         |       | x     |       | Corinthians | Pituaçu          | Salvador       | 20/06 | 16h00   |
-| Cuiabá        |       | x     |       | Grêmio      | Dutrinha         | Cuiabá         | 20/06 | 16h00   |
-| Santos        |       | x     |       | São Paulo   | Vila Belmiro     | Santos         | 20/06 | 18h15   |
-| Fortaleza     |       | x     |       | Fluminense  | Castelão         | Fortaleza      | 20/06 | 18h15   |
-| Athlético-PR  |       | x     |       | Atlético-GO | Arena da Baixada | Curitiba       | 20/06 | 18h15   |
-| Juventude     |       | x     |       | Sport       | Alfredo Jaconi   | Caxias do Sul  | 20/06 | 20h30   |
-| Atlético-MG   |       | x     |       | Chapecoense | Mineirão         | Belo Horizonte | 21/06 | 20h00   |
+| ---:          | :---: | :---: | :---: | :---        | :---             | :---           | :---: | :---: |
+| Flamengo      |       | x     |       | Bragantino  | Maracanã         | Rio de Janeiro | 19/06 | 21h00 |
+| Palmeiras     |       | x     |       | América-MG  | Allianz Parque   | São Paulo      | 20/06 | 11h00 |
+| Internacional |       | x     |       | Ceará       | Beira-Rio        | Porto Alegre   | 20/06 | 16h00 |
+| Bahia         |       | x     |       | Corinthians | Pituaçu          | Salvador       | 20/06 | 16h00 |
+| Cuiabá        |       | x     |       | Grêmio      | Dutrinha         | Cuiabá         | 20/06 | 16h00 |
+| Santos        |       | x     |       | São Paulo   | Vila Belmiro     | Santos         | 20/06 | 18h15 |
+| Fortaleza     |       | x     |       | Fluminense  | Castelão         | Fortaleza      | 20/06 | 18h15 |
+| Athlético-PR  |       | x     |       | Atlético-GO | Arena da Baixada | Curitiba       | 20/06 | 18h15 |
+| Juventude     |       | x     |       | Sport       | Alfredo Jaconi   | Caxias do Sul  | 20/06 | 20h30 |
+| Atlético-MG   |       | x     |       | Chapecoense | Mineirão         | Belo Horizonte | 21/06 | 20h00 |
 
 Campeonato Brasileiro 2021 - 4ª rodada
 |               |       |       |       |             | Estádio           | Cidade         | Data  | Horário |
