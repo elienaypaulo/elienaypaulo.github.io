@@ -3,11 +3,11 @@ categories: [Gandaia]
 author:
   name: "Paulo Elienay"
 date: 2021-06-13
-linktitle: Campeonato Brasileiro 2021 - Jogos
+linktitle: Campeonato Brasileiro 2021 - Classificação
 type:
 - post
 - posts
-title: Campeonato Brasileiro 2021 - Jogos
+title: Campeonato Brasileiro 2021 - Classificação
 weight: 2
 ---
 # Campeonato Brasileiro
