@@ -18,34 +18,22 @@ Ceará x Bahia – Jogos oficiais
 * Derrotas: 16
 * Gols marcados: 62
 * Gols sofridos: 58
-* Aproveitamento: 49%
 
-Ceará x Bahia – Total
-* Total de jogos: 71
-* Vitórias: 22
-* Empates: 24
-* Derrotas: 25
-* Gols marcados: 80
-* Gols sofridos: 88
-* Aproveitamento: 42%
-
-Ceará como mandante – Jogos oficiais
+Ceará como mandante
 - Total de jogos: 27
 - Vitórias: 13
 - Empates: 08
 - Derrotas: 06
 - Gols marcados: 37
 - Gols sofridos: 23
-- Aproveitamento: 58%
 
-Ceará como visitante – Jogos oficiais
+Ceará como visitante
 - Total de jogos: 25
 - Vitórias: 07
 - Empates: 08
 - Derrotas: 10
 - Gols marcados: 25
 - Gols sofridos: 35
-- Aproveitamento: 39%
 
 | Data     |       | Placar |       | Competição  |       |
 | :---:    | ---:  | :---:  | :---  | :---:       | :---: |
