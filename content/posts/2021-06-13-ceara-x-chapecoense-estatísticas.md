@@ -17,7 +17,6 @@ Ceará x Chapecoense
 * Derrotas: 02
 * Gols marcados: 14
 * Gols sofridos: 09
-* Aproveitamento: 55,5%
 
 Ceará como mandante
 - Total de jogos: 04
@@ -26,7 +25,6 @@ Ceará como mandante
 - Derrotas: 00
 - Gols marcados: 11
 - Gols sofridos: 04
-- Aproveitamento: 83,33%
 
 Ceará como visitante
 - Total de jogos: 05
@@ -35,7 +33,6 @@ Ceará como visitante
 - Derrotas: 02
 - Gols marcados: 03
 - Gols sofridos: 05
-- Aproveitamento: 33,33%
 
 | Data     |             | Placar  |             | Competição  |       |
 | :---:    | ---:        | :---:   | :---        | :---:       | :---: |
