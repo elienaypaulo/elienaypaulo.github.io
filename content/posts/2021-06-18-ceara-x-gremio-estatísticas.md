@@ -17,7 +17,6 @@ Ceará x Grêmio
 * Derrotas: 08
 * Gols marcados: 27
 * Gols sofridos: 28
-* Aproveitamento: 40%
 
 Ceará como mandante
 - Total de jogos: 11
@@ -26,7 +25,6 @@ Ceará como mandante
 - Derrotas: 02
 - Gols marcados: 17
 - Gols sofridos: 10
-- Aproveitamento: 58%
 
 Ceará como visitante
 - Total de jogos: 08
@@ -35,7 +33,6 @@ Ceará como visitante
 - Derrotas: 06
 - Gols marcados: 10
 - Gols sofridos: 18
-- Aproveitamento: 17%
 
 | Data     |        | Placar  |        | Competição  |       |
 | :---:    | ---:   | :---:   | :---   | :---:       | :---: |
