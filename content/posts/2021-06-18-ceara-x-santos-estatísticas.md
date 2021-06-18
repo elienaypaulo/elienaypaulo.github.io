@@ -17,7 +17,6 @@ Ceará x Santos - Jogos oficiais
 * Derrotas: 08
 * Gols marcados: 16
 * Gols sofridos: 21
-* Aproveitamento: 33,3%
 
 Ceará como mandante
 - Total de jogos: 10
@@ -26,7 +25,6 @@ Ceará como mandante
 - Derrotas: 03
 - Gols marcados: 11
 - Gols sofridos: 09
-- Aproveitamento: 50%
 
 Ceará como visitante
 - Total de jogos: 08
@@ -35,7 +33,6 @@ Ceará como visitante
 - Derrotas: 05
 - Gols marcados: 05
 - Gols sofridos: 12
-- Aproveitamento: 13%
 
 | Data     |        | Placar  |        | Competição  |       |
 | :---:    | ---:   | :---:   | :---   | :---:       | :---: |
