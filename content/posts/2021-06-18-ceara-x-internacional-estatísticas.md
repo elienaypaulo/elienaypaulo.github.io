@@ -17,7 +17,6 @@ Ceará x Internacional
 * Derrotas: 08
 * Gols marcados: 21
 * Gols sofridos: 22
-* Aproveitamento: 45%
 
 Ceará como mandante
 - Total de jogos: 12
@@ -26,7 +25,6 @@ Ceará como mandante
 - Derrotas: 02
 - Gols marcados: 14
 - Gols sofridos: 10
-- Aproveitamento: 56%
 
 Ceará como visitante
 - Total de jogos: 10
@@ -35,7 +33,6 @@ Ceará como visitante
 - Derrotas: 06
 - Gols marcados: 07
 - Gols sofridos: 12
-- Aproveitamento: 33%
 
 | Data     |               | Placar  |               | Competição  |       |
 | :---:    | ---:          | :---:   | :---          | :---:       | :---: |
