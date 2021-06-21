@@ -11,12 +11,12 @@ title: Ceará x Internacional - Estatísticas
 weight: 5
 ---
 Ceará x Internacional
-* Total de jogos: 22
+* Total de jogos: 23
 * Vitórias: 08
-* Empates: 06
+* Empates: 07
 * Derrotas: 08
-* Gols marcados: 21
-* Gols sofridos: 22
+* Gols marcados: 22
+* Gols sofridos: 23
 
 Ceará como mandante
 - Total de jogos: 12
@@ -27,16 +27,16 @@ Ceará como mandante
 - Gols sofridos: 10
 
 Ceará como visitante
-- Total de jogos: 10
+- Total de jogos: 11
 - Vitórias: 03
-- Empates: 01
+- Empates: 02
 - Derrotas: 06
-- Gols marcados: 07
-- Gols sofridos: 12
+- Gols marcados: 08
+- Gols sofridos: 13
 
 | Data     |               | Placar  |               | Competição  |       |
 | :---:    | ---:          | :---:   | :---          | :---:       | :---: |
-| 20/06/21 | Internacional |         | Ceará         | Brasileirão | 23    |
+| 20/06/21 | Internacional |  1 x 1  | Ceará         | Brasileirão | 23    |
 | 07/01/21 |         Ceará |  0 x 2  | Internacional | Brasileirão | 22    |
 | 10/09/20 | Internacional |  2 x 0  | Ceará         | Brasileirão | 21    |
 | 07/11/19 |         Ceará |  2 x 0  | Internacional | Brasileirão | 20    |
