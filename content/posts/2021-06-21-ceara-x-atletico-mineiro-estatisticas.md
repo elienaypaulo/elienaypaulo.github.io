@@ -11,20 +11,20 @@ title: Ceará x Atlético-MG - Estatísticas
 weight: 5
 ---
 Ceará x Atlético-MG
-* Total de jogos: 25
-* Vitórias: 06
+* Total de jogos: 26
+* Vitórias: 07
 * Empates: 06
 * Derrotas: 13
-* Gols marcados: 23
-* Gols sofridos: 34
+* Gols marcados: 25
+* Gols sofridos: 35
 
 Ceará como mandante
-- Total de jogos: 14
-- Vitórias: 05
+- Total de jogos: 15
+- Vitórias: 06
 - Empates: 03
 - Derrotas: 06
-- Gols marcados: 17
-- Gols sofridos: 16
+- Gols marcados: 19
+- Gols sofridos: 17
 
 Ceará como visitante
 - Total de jogos: 
@@ -36,7 +36,7 @@ Ceará como visitante
 
 | Data     |          | Placar  |          | Competição  |       |
 | :---:    | ---:     | :---:   | :---     | :---:       | :---: |
-| 24/06/21 |    Ceará |    x    | Atlético | Brasileirão | 26    |
+| 24/06/21 |    Ceará |  2 x 1  | Atlético | Brasileirão | 26    |
 | 22/11/20 |    Ceará |  2 x 2  | Atlético | Brasileirão | 25    |
 | 16/08/20 | Atlético |  2 x 0  | Ceará    | Brasileirão | 24    |
 | 29/09/19 | Atlético |  2 x 1  | Ceará    | Brasileirão | 23    |
