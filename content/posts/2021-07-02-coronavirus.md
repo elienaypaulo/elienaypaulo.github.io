@@ -1,5 +1,5 @@
 ---
-categories: [Covid]
+categories: [Coronavirus]
 author:
   name: "Paulo Elienay"
 date: 2021-07-02
