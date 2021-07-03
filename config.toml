@@ -139,19 +139,19 @@ weight = 1
 url = "categories/metanoia/"
 
 [[languages.pt-br.menu.main]]
-name = "Futebol"
+name = "Aletheia"
 weight = 2
+url = "categories/aletheia"
+
+[[languages.pt-br.menu.main]]
+name = "Futebol"
+weight = 3
 url = "categories/futebol"
 
 [[languages.pt-br.menu.main]]
 name = "Coronavirus"
-weight = 3
-url = "categories/coronavirus"
-
-[[languages.pt-br.menu.main]]
-name = "Filosofia"
 weight = 4
-url = "categories/filosofia"
+url = "categories/coronavirus"
 
 [[languages.pt-br.menu.main]]
 name = "Sobre"
