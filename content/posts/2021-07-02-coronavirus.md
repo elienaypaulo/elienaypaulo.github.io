@@ -11,7 +11,7 @@ title: Coronavírus
 weight: 1
 ---
 
-#Coronavírus
+Coronavírus
 
 |       | Localização | Acumulado | 02/07 |
 | :---: | :---        | ---:      | ---:  |
