@@ -1,5 +1,5 @@
 ---
-categories: [Filosofando]
+categories: [Filosofia]
 author:
   name: "Paulo Elienay"
 date: 2011-12-02
