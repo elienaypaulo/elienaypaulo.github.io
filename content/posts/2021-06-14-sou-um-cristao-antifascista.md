@@ -1,5 +1,5 @@
 ---
-categories: [Reflexões]
+categories: [Aletheia]
 author:
   name: "Paulo Elienay"
 date: 2021-06-14
