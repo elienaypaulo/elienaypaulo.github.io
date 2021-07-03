@@ -19,7 +19,7 @@ Porcentagem da população totalmente imunizada
 | :---: | :---: | :---        | ---:        |
 |       | 🌎    | Mundo       | 11,1%       |
 | 1º    | 🇬🇮    | Gibraltar   | 99,0%       |
-| 2º    | 🇰🇾    | Cayman      | 70,1%       |
+| 2º    | 🇰🇾    | CAY         | 70,1%       |
 | 3º    | 🇸🇨    | Seychelles  | 69,3%       |
 | 11º   | 🇮🇱    | Israel      | 57,2%       |
 | 12º   | 🇨🇱    | Chile       | 56,4%       |
