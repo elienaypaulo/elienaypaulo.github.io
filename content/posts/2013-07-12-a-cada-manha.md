@@ -1,5 +1,5 @@
 ---
-categories: [Reflexões]
+categories: [Metanoia]
 author:
   name: "Paulo Elienay"
 date: 2013-07-12
