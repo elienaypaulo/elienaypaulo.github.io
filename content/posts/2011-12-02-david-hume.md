@@ -1,5 +1,5 @@
 ---
-categories: [Filosofia]
+categories: [Aletheia]
 author:
   name: "Paulo Elienay"
 date: 2011-12-02
