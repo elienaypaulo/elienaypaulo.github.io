@@ -1,5 +1,5 @@
 ---
-categories: [Gandaia]
+categories: [Futebol]
 author:
   name: "Paulo Elienay"
 date: 2012-03-09
