@@ -134,24 +134,24 @@ languageName = ":brazil:"
 title = "Paulo Elienay"
 
 [[languages.pt-br.menu.main]]
-name = "Reflexões"
+name = "Metanoia"
 weight = 1
-url = "categories/reflex&otildees/"
+url = "categories/metanoia/"
 
 [[languages.pt-br.menu.main]]
-name = "Filosofando"
+name = "Futebol"
 weight = 2
-url = "categories/filosofando"
+url = "categories/futebol"
 
 [[languages.pt-br.menu.main]]
-name = "Gandaia"
+name = "Coronavirus"
 weight = 3
-url = "categories/gandaia"
+url = "categories/coronavirus"
 
 [[languages.pt-br.menu.main]]
-name = "Covid"
+name = "Filosofia"
 weight = 4
-url = "categories/covid"
+url = "categories/filosofia"
 
 [[languages.pt-br.menu.main]]
 name = "Sobre"
