@@ -1,9 +1,14 @@
 ---
-title: Precisamos Repensar o Ceará
-author: Paulo Elienay
-avatar: assets/Paulo.jpeg
-categories:
-  - Gandaia
+categories: [Futebol]
+author:
+  name: "Paulo Elienay"
+date: 2012-02-26
+linktitle: Precisamos repensar o Ceará
+type:
+- post
+- posts
+title: Precisamos repensar o Ceará
+weight: 10
 ---
 Quando o Evandro Leitão assumiu a presidência do Ceará ele não passava de um ilustre desconhecido. No entanto, essa visão diante da torcida alvinegra não demorou muito a mudar, pois rapidamente ele passou a ser respeitado pelo torcedor alvinegro, por conta das suas atitudes como chefe do executivo no Ceará.
 
