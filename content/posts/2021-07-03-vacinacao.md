@@ -11,7 +11,7 @@ title: Vacinação
 weight: 1
 ---
 
-#Vacinação contra a Covid-19
+Vacinação contra a Covid-19
 
 Porcentagem da população totalmente imunizada
 
