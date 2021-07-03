@@ -136,7 +136,7 @@ title = "Paulo Elienay"
 [[languages.pt-br.menu.main]]
 name = "Reflexões"
 weight = 1
-url = "categories/reflexoes/"
+url = "categories/reflex&otildees/"
 
 [[languages.pt-br.menu.main]]
 name = "Filosofando"
@@ -151,7 +151,7 @@ url = "categories/gandaia"
 [[languages.pt-br.menu.main]]
 name = "Coronavírus"
 weight = 4
-url = "categories/coronavirus"
+url = "categories/coronav&iacute;rus"
 
 [[languages.pt-br.menu.main]]
 name = "Sobre"
