@@ -13,7 +13,7 @@ weight: 1
 
 Vacinação contra a Covid-19
 
-Porcentagem da população totalmente imunizada
+Porcentagem da população totalmente imunizada 
 
 |       |       | Localização | Porcentagem |
 | :---: | :---: | :---        | ---:        |
