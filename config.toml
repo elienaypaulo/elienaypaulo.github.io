@@ -149,6 +149,12 @@ weight = 3
 url = "categories/gandaia"
 
 [[languages.pt-br.menu.main]]
-name = "Sobre"
+name = "Coronavírus"
 weight = 4
+url = "categories/coronavirus"
+
+
+[[languages.pt-br.menu.main]]
+name = "Sobre"
+weight = 5
 url = "sobre/" 
