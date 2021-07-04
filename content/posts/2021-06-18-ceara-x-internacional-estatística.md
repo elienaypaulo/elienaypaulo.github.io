@@ -3,11 +3,11 @@ categories: [Futebol]
 author:
   name: "Paulo Elienay"
 date: 2021-06-18
-linktitle: Ceará x Internacional - Estatísticas
+linktitle: Ceará x Internacional - Estatística
 type:
 - post
 - posts
-title: Ceará x Internacional - Estatísticas
+title: Ceará x Internacional - Estatística
 weight: 5
 ---
 Ceará x Internacional
