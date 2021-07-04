@@ -11,19 +11,19 @@ title: Ceará x Juventude - Estatística
 weight: 5
 ---
 Ceará x Juventude
-* Total de jogos: 06
-* Vitórias: 02
+* Total de jogos: 07
+* Vitórias: 03
 * Empates: 03
 * Derrotas: 01
-* Gols marcados: 07
+* Gols marcados: 09
 * Gols sofridos: 05
 
 Ceará como mandante
-- Total de jogos: 03
-- Vitórias: 02
+- Total de jogos: 04
+- Vitórias: 03
 - Empates: 01
 - Derrotas: 00
-- Gols marcados: 05
+- Gols marcados: 07
 - Gols sofridos: 02
 
 Ceará como visitante
@@ -36,7 +36,7 @@ Ceará como visitante
 
 | Data     |           | Placar  |           | Competição  |       |
 | :---:    | ---:      | :---:   | :---      | :---:       | :---: |
-| 04/07/21 |     Ceará |    x    | Juventude | Brasileirão | 07    |
+| 04/07/21 |     Ceará |  2 x 0  | Juventude | Brasileirão | 07    |
 | 03/11/17 | Juventude |  1 x 0  | Ceará     | Série B     | 06    |
 | 15/07/17 |     Ceará |  2 x 0  | Juventude | Série B     | 05    |
 | 25/08/09 |     Ceará |  1 x 1  | Juventude | Série B     | 04    |
