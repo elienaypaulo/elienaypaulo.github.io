@@ -3,11 +3,11 @@ categories: [Futebol]
 author:
   name: "Paulo Elienay"
 date: 2021-06-15
-linktitle: Ceará x Bahia - Estatísticas
+linktitle: Ceará x Bahia - Estatística
 type:
 - post
 - posts
-title: Ceará x Bahia - Estatísticas
+title: Ceará x Bahia - Estatística
 weight: 5
 ---
 
