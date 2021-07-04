@@ -3,11 +3,11 @@ categories: [Futebol]
 author:
   name: "Paulo Elienay"
 date: 2021-06-21
-linktitle: Ceará x Atlético-MG - Estatísticas
+linktitle: Ceará x Atlético-MG - Estatística
 type:
 - post
 - posts
-title: Ceará x Atlético-MG - Estatísticas
+title: Ceará x Atlético-MG - Estatística
 weight: 5
 ---
 Ceará x Atlético-MG
