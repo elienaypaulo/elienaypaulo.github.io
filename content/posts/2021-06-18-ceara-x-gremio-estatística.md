@@ -3,11 +3,11 @@ categories: [Futebol]
 author:
   name: "Paulo Elienay"
 date: 2021-06-18
-linktitle: Ceará x Grêmio - Estatísticas
+linktitle: Ceará x Grêmio - Estatística
 type:
 - post
 - posts
-title: Ceará x Grêmio - Estatísticas
+title: Ceará x Grêmio - Estatística
 weight: 5
 ---
 Ceará x Grêmio
