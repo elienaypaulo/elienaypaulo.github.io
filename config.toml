@@ -149,9 +149,9 @@ weight = 3
 url = "categories/futebol"
 
 [[languages.pt-br.menu.main]]
-name = "Coronavírus"
+name = "Coronavirus"
 weight = 4
-url = "categories/coronav%C3%ADrus"
+url = "categories/coronavirus"
 
 [[languages.pt-br.menu.main]]
 name = "Sobre"
