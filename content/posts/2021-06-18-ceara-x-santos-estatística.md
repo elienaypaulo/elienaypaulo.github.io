@@ -3,11 +3,11 @@ categories: [Futebol]
 author:
   name: "Paulo Elienay"
 date: 2021-06-18
-linktitle: Ceará x Santos - Estatísticas
+linktitle: Ceará x Santos - Estatística
 type:
 - post
 - posts
-title: Ceará x Santos - Estatísticas
+title: Ceará x Santos - Estatística
 weight: 5
 ---
 Ceará x Santos - Jogos oficiais
