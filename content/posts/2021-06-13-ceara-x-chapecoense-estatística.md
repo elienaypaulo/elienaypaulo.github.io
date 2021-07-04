@@ -3,11 +3,11 @@ categories: [Futebol]
 author:
   name: "Paulo Elienay"
 date: 2021-06-13
-linktitle: Ceará x Chapecoense - Estatísticas
+linktitle: Ceará x Chapecoense - Estatística
 type:
 - post
 - posts
-title: Ceará x Chapecoense - Estatísticas
+title: Ceará x Chapecoense - Estatística
 weight: 5
 ---
 Ceará x Chapecoense
