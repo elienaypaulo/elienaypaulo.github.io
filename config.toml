@@ -144,16 +144,21 @@ weight = 2
 url = "categories/aletheia"
 
 [[languages.pt-br.menu.main]]
-name = "Futebol"
+name = "Politik"
 weight = 3
+url = "categories/politik"
+
+[[languages.pt-br.menu.main]]
+name = "Futebol"
+weight = 4
 url = "categories/futebol"
 
 [[languages.pt-br.menu.main]]
 name = "Coronavirus"
-weight = 4
+weight = 5
 url = "categories/coronavirus"
 
 [[languages.pt-br.menu.main]]
 name = "Sobre"
-weight = 5
+weight = 6
 url = "sobre/" 
