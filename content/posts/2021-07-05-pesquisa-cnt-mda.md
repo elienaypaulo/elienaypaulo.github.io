@@ -65,6 +65,6 @@ Em quem você não votaria de jeito nenhum?
 | 6º    | Lula      | PT      | 44,5%      |
 
 
-Pesquisa encomenda pela Confederação Nacional do Transpore - CNT - e realizada pelo MDA.
+Pesquisa encomenda pela Confederação Nacional do Transporte - CNT - e realizada pelo MDA.
 
 A pesquisa ouviu 2.002 pessoas entre os dias 1 e 3 de julho e tem margem de erro de 2,2 pontos porcentuais para mais ou para menos. 
