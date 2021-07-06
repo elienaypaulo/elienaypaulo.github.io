@@ -1,5 +1,5 @@
 ---
-categories: [Metanoia]
+categories: [Aletheia]
 author:
   name: "Paulo Elienay"
 date: 2013-07-12
@@ -8,7 +8,7 @@ type:
 - post
 - posts
 title: A cada manhã
-weight: 10
+weight: 1
 ---
 A nossa vida não segue um padrão, não é uma constante. Não caminhamos sobre uma estrada perfeita, ao contrário, o chão em que nós pisamos é muito acidentado, por isso a nossa vida é tão cheia de curvas sinuosas, de surpresas. E se isso não fosse o bastante para que a nossa viagem fosse repleta de emoções ainda existe um fator determinante e complicador que é a luta que travamos contra nós mesmos.
 
