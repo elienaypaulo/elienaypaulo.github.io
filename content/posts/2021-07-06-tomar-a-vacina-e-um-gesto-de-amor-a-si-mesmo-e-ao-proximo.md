@@ -10,11 +10,12 @@ type:
 title: Tomar a vacina é um gesto de amor a si mesmo, e ao próximo
 weight: 1
 ---
-      "Mestre, qual é o mais importante de todos os mandamentos da Lei?  
-      Jesus respondeu:  
-      'Ame o Senhor, seu Deus, com todo o coração, com toda a alma e com toda a mente.'  Este é o maior mandamento e o mais importante.  
-      E o segundo mais importante é parecido com o primeiro: 'Ame os outros como você ama a você mesmo.'  
-      Toda a Lei de Moisés e os ensinamentos dos Profetas se baseiam nesses dois mandamentos". (Mateus 22.36-40)
+    "Mestre, qual é o mais importante de todos os mandamentos da Lei?  
+    Jesus respondeu:  
+    'Ame o Senhor, seu Deus, com todo o coração, com toda a alma e com toda a mente.'  Este é o maior mandamento  
+    e o mais importante.  
+    E o segundo mais importante é parecido com o primeiro: 'Ame os outros como você ama a você mesmo.'  
+    Toda a Lei de Moisés e os ensinamentos dos Profetas se baseiam nesses dois mandamentos". (Mateus 22.36-40)
 
 
 Muita gente está decidida a não tomar a vacina contra a Covid-19. As justificativas muitas das vezes beiram o absurdo.
