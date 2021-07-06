@@ -1,5 +1,5 @@
 ---
-categories: [Metanoia]
+categories: [Aletheia]
 author:
   name: "Paulo Elienay"
 date: 2013-08-31
@@ -8,7 +8,7 @@ type:
 - post
 - posts
 title: Somos descartáveis?
-weight: 10
+weight: 1
 ---
 Lembro de um tempo em que procurávamos uma loja de assistência técnica quando algum dos nossos aparelhos eletrônicos deixava de funcionar. O tempo passou e com o avanço tecnológico o preço de muitos objetos sofreu uma drástica redução, bem como a qualidade de cada um deles diminuiu na mesma medida. Dessa forma, começamos a perceber que quando um aparelho eletrônico apresenta um defeito é mais interessante jogá-lo fora, DESCARTÁ-LO,  e comprar um novo, do que enviá-lo ao conserto.
 
