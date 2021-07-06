@@ -1,5 +1,5 @@
 ---
-categories: [Metanoia]
+categories: [Aletheia]
 author:
   name: "Paulo Elienay"
 date: 2019-07-21
