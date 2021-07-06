@@ -1,16 +1,19 @@
 ---
-categories: [Politik]
+categories: [Aletheia]
 author:
   name: "Paulo Elienay"
 date: 2021-07-05
-linktitle: Pesquisa CNT/MDA
+linktitle: Eleições 2022 - Pesquisa CNT/MDA
 type:
 - post
 - posts
-title: Pesquisa CNT/MDA
+title: Eleições 2022 - Pesquisa CNT/MDA
 weight: 1
 ---
-Eleições 2022 || 1º turno  
+# Eleições 2022 - Pesquisa CNT/MDA
+
+## Eleições 2022 || 1º turno  
+
 1º cenário - Pesquisa espontânea  
 
 |       | Candidato | Partido | Percentual |
@@ -20,8 +23,6 @@ Eleições 2022 || 1º turno
 | 3º    | Ciro      | PDT     | 1,7%       |
 |       | Indecisos |         | 38,9%      |
 
-
-Eleições 2022 || 1º turno  
 2º cenário - Pesquisa estimulada  
 
 |       | Candidato | Partido | Percentual |
@@ -34,7 +35,8 @@ Eleições 2022 || 1º turno
 | 6º    | Mandetta  | DEM     | 1,8%       |
 |       | Indecisos |         | 7,8 %      |
 
-Eleições 2022 || 2º turno  
+## Eleições 2022 || 2º turno  
+
 1º cenário  
 
 |       | Candidato     | Partido | Percentual |
@@ -42,8 +44,6 @@ Eleições 2022 || 2º turno
 | 1º    | Lula          | PT      | 52,6%      |
 | 2º    | Bolsonaro     |         | 33,3%      |
 
-
-Eleições 2022 || 2º turno  
 2º cenário  
 
 |       | Candidato     | Partido | Percentual |
@@ -52,7 +52,8 @@ Eleições 2022 || 2º turno
 | 2º    | Bolsonaro     |         | 33,7%      |
 
 
-Eleições 2022 || Índices de rejeição  
+## Eleições 2022 || Índices de rejeição  
+
 Em quem você não votaria de jeito nenhum?
 
 |       | Candidato | Partido | Percentual |
