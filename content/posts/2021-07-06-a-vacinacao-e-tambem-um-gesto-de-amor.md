@@ -10,7 +10,7 @@ type:
 title: A vacinação é também um gesto de amor
 weight: 1
 ---
-![Mateus 22.36-40](https://photos.app.goo.gl/uhLejksRAMiZQCk7A)
+![Mateus 22.36-40](https://ibb.co/7XK6nNM)
 
 Muita gente está decidida a não tomar a vacina contra a Covid-19.As justificativas muitas das vezes beiram o absurdo.
 
