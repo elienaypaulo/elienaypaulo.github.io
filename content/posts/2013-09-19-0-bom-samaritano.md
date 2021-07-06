@@ -1,5 +1,5 @@
 ---
-categories: [Metanoia]
+categories: [Aletheia]
 author:
   name: "Paulo Elienay"
 date: 2013-09-19
@@ -8,7 +8,7 @@ type:
 - post
 - posts
 title: O bom samaritano
-weight: 10
+weight: 1
 ---
 A parábola do bom samaritano [Lc 10.25-37 NVI]
 
