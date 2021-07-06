@@ -8,7 +8,7 @@ type:
 - post
 - posts
 title: Consciência negra
-weight: 10
+weight: 1
 ---
 Hoje é o Dia Nacional da Consciência Negra. Essa data foi escolhida para relembrar a morte de Zumbi dos Palmares que foi assassinado no dia 20 de novembro de 1695. Zumbi foi mártir e um herói da resistência negra diante da violento domínio e opressão do homem branco.
      
