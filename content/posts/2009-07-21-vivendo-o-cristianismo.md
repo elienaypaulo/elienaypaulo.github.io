@@ -8,7 +8,7 @@ type:
 - post
 - posts
 title: Vivendo o cristianismo
-weight: 10
+weight: 1
 ---
 Quem não consegue amar e se importar com o próximo, como pode dizer que ama a Deus? 
 
