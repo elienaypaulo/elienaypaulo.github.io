@@ -18,7 +18,7 @@ Muita gente está decidida a não tomar a vacina contra a Covid-19.As justificat
 Já ouvi que a grande quantidade de marcas causa confusão. Talvez a mais utilizada seja referente ao curto espaço de tempo para o desenvolvimento das mesmas. Tem aqueles que dizem que só vão tomar se Deus mandar, ou ainda tem quem diga que não tomar vacina é uma medida de fé, pois acredita que Deus cura todos os males. 
 
 
-Nos últimos dias surgiram os someliers de vacina. Na data agendada para a vacinação eles até comparecem ao local de vacinação, contudo se não for a vacina de sua preferência, eles decidem não tomar. O problema é que isso afeta o próprio calendário adotado pelos municípios para dar mais celeridade ao Plano Nacional de Imunização, o PNI.
+Nos últimos dias surgiram os sommeliers de vacina. Na data agendada para a vacinação eles até comparecem ao local de vacinação, contudo se não for a vacina de sua preferência, eles decidem não tomar. O problema é que isso afeta o próprio calendário adotado pelos municípios para dar mais celeridade ao Plano Nacional de Imunização, o PNI.
 
 
 Há um aspecto que muitos não observam, pois a vacinação em massa promove a imunidade de rebanho, que para ter uma boa margem de segurança, precisa atingir cerca de 70% da população.
