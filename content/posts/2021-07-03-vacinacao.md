@@ -1,5 +1,5 @@
 ---
-categories: [Coronavirus]
+categories: [Aletheia]
 author:
   name: "Paulo Elienay"
 date: 2021-07-03
@@ -11,9 +11,9 @@ title: Vacinação
 weight: 1
 ---
 
-Vacinação contra a Covid-19
+# Vacinação contra a Covid-19
 
-Porcentagem da população totalmente imunizada 
+## Porcentagem da população totalmente imunizada 
 
 |       |       | Localização | Doses aplicadas | Pessoas imuzizadas | Porcentagem |
 | :---: | :---: | :---        | ---:            | ---:               | ---:        |
