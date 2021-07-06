@@ -1,5 +1,5 @@
 ---
-categories: [Coronavirus]
+categories: [Aletheia]
 author:
   name: "Paulo Elienay"
 date: 2021-07-05
@@ -11,11 +11,11 @@ title: Coronavírus
 weight: 1
 ---
 
-Coronavírus
+# Coronavírus
 
-|       | Localização | Acumulado | 05/07 |
-| :---: | :---        | ---:      | ---:  |
-| 🌎    | Mundo       | 3.984.582 | 9.684 | 
+|      |       | Localização | Acumulado | 05/07 |
+| ---: | :---: | :---        | ---:      | ---:  |
+|      | 🌎    | Mundo       | 3.984.582 | 9.684 | 
 
 🇧🇷 Hoje: 695 óbitos  
 🇧🇷 Acumulado: 525.112 óbitos
