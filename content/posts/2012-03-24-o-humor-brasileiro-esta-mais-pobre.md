@@ -8,7 +8,7 @@ type:
 - post
 - posts
 title: O humor brasileiro está mais pobre
-weight: 10
+weight: 1
 ---
 Francisco Anysio de Oliveira Paula Filho nasceu na cidade de Maranguape, no estado do Ceará, e faleceu na cidade do Rio de Janeiro. Era torcedor do Ferroviário, Vasco e Palmeiras, no entanto seu pai, Francisco Anysio de Oliveira Paula foi presidente do Ceará na década de 1930.
 
