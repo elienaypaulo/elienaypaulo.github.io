@@ -3,11 +3,11 @@ categories: [Aletheia]
 author:
   name: "Paulo Elienay"
 date: 2021-07-06
-linktitle: Tomar a vacina é um gesto de amor a si mesmo, e ao próximo
+linktitle: Tomar a vacina é um gesto de amor a si mesmo e ao próximo
 type:
 - post
 - posts
-title: Tomar a vacina é um gesto de amor a si mesmo, e ao próximo
+title: Tomar a vacina é um gesto de amor a si mesmo e ao próximo
 weight: 1
 ---
 "Mestre, qual é o mais importante  de todos os mandamentos da Lei?  
